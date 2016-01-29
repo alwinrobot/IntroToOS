@@ -1,7 +1,6 @@
-# Name: Alwin Joy (alwinrobot)-
+## Name: Alwin Joy (alwinrobot)-
+
+###email: joya@rpi.edu
 
 
-**email:** joya@rpi.edu
-
-
-**photo:**
+###photo: 
