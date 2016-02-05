@@ -1,4 +1,4 @@
-c. List two smart questions
+#c. List two smart questions
 -Try to do research on your own before asking a question. A lot of questions can be easily googled.
 -It helps a lot to take a screenshot of the problem if that's applicable. 
 
