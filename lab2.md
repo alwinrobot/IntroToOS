@@ -1,3 +1,9 @@
+#1
+- Free to run as wish
+- Free to study
+- Free to redistribute
+- Free to redistribute modified versions
+
 #2
 - A license allows software to be freely used, modified, and shared. Having a license means more control of how copyright law is applied to your project
 
