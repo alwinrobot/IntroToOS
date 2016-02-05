@@ -17,7 +17,7 @@
 
 #6
 
-- Can't think of a specific project but I'd imagine wanting any improvements to what I make to be freely available so the GPL license is probably what I'd use.
+- Can't think of a specific project but I'd imagine wanting something simple and permissive so the MIT license seems ideal.
 
 #7
 
