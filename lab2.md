@@ -46,4 +46,10 @@
 | SplitScreen               | Apache License                |
 
 
+#10
+
+- Going to create a google chrome extension that integrates with yacs.me and ratemyprofessor to allow a review of the professor from the yacs.me interface while searching for classes 
+- Would probably use the MIT License as it's the simplest and most permissive. I don't really mind what people will do with this code in the future as long as I'm not liable. 
+
+
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is licensed under a http://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License.
