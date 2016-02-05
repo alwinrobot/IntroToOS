@@ -30,9 +30,6 @@
 - 
 
 #9
-Davis Putnam ATP
-
-
 
 | Project        | License        |
 | -------------  |:-------------: | 
