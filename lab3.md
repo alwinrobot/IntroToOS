@@ -6,3 +6,6 @@ https://github.com/alwinrobot/lab3part1
 
 #Part2
 ![Part3](https://raw.githubusercontent.com/alwinrobot/IntroToOS/master/screenshot3.png)
+
+#Part3
+https://github.com/alwinrobot/courseproject
