@@ -13,3 +13,6 @@
 #Learned
 - How to document and fix bugs using version control 
 
+
+![BugFix](https://raw.githubusercontent.com/alwinrobot/IntroToOS/master/bugfixlab4.png)
+
