@@ -1,1 +1,1 @@
-[Screen1](https://github.com/alwinrobot/IntroToOS/blob/master/screenshot1.png?raw=true)
+[Screen1](https://raw.githubusercontent.com/alwinrobot/IntroToOS/master/screenshot1.png)
