@@ -7,3 +7,5 @@
 
 #Step 3
 ![Step3](http://i.imgur.com/Or6LS6f.png)
+#Step 4
+![Step4](http://i.imgur.com/3F3ufWH.png)
