@@ -4,3 +4,6 @@
 
 #Step 2
 ![Step2](http://i.imgur.com/Tb3raWe.png)
+
+#Step 3
+![Step3](http://i.imgur.com/Or6LS6f.png)
