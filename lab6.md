@@ -10,6 +10,7 @@
 #Part2
 - Number of lines is different from part1
 - Number of contributors is different from part1
+
 ##Opionated
 - Total Lines: 6367 
 - Contributors: 3
