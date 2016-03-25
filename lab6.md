@@ -186,5 +186,5 @@ Blah blah
 
 ### Unit Tests Passing
 
-![image](https://files.slack.com/files-pri/T033VT1N8-F0VGV3JGP/image.png)
+![image](http://i.imgur.com/YiZcvKx.png)
 
